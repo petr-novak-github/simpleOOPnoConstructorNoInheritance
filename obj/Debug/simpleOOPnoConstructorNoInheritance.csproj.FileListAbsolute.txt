@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\01-SimpleOOPnoConstructorNoInheritance\stuff\simpleOOPnoConstructorNoInheritance\bin\Debug\simpleOOPnoConstructorNoInheritance.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\01-SimpleOOPnoConstructorNoInheritance\stuff\simpleOOPnoConstructorNoInheritance\bin\Debug\simpleOOPnoConstructorNoInheritance.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\01-SimpleOOPnoConstructorNoInheritance\stuff\simpleOOPnoConstructorNoInheritance\bin\Debug\simpleOOPnoConstructorNoInheritance.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\01-SimpleOOPnoConstructorNoInheritance\stuff\simpleOOPnoConstructorNoInheritance\obj\Debug\simpleOOPnoConstructorNoInheritance.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\01-SimpleOOPnoConstructorNoInheritance\stuff\simpleOOPnoConstructorNoInheritance\obj\Debug\simpleOOPnoConstructorNoInheritance.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\01-SimpleOOPnoConstructorNoInheritance\stuff\simpleOOPnoConstructorNoInheritance\obj\Debug\simpleOOPnoConstructorNoInheritance.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\01-SimpleOOPnoConstructorNoInheritance\stuff\simpleOOPnoConstructorNoInheritance\obj\Debug\simpleOOPnoConstructorNoInheritance.pdb
